@@ -1,4 +1,4 @@
-## Hi there 👋
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 
 <!--
 **ferat/ferat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
